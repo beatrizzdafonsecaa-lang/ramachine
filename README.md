@@ -54,3 +54,9 @@ Essa landing page foi criada com o objetivo de filtrar melhor os leads e de apre
 - Google Tag Manager e Google Analytics 4, com aviso de cookies e modo de consentimento (LGPD)
 
 A página inteira pesa cerca de 24 KB comprimida. Vídeos e imagens carregam só quando são necessários.
+
+## Direitos
+
+Este repositório está público como portfólio. Ele não tem licença de uso: o código pode ser visto, mas não copiado ou reutilizado sem autorização.
+
+A marca Ramachine, o ursinho, as fotos, os vídeos e os depoimentos pertencem à Ramachine e não podem ser usados em outros projetos.
