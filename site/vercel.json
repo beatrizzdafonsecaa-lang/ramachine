@@ -1,0 +1,28 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "ramachine.com.br" }],
+      "destination": "https://www.ramachine.com.br/",
+      "permanent": true
+    },
+    {
+      "source": "/:path+",
+      "has": [{ "type": "host", "value": "ramachine.com.br" }],
+      "destination": "https://www.ramachine.com.br/:path+",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "ramachine.vercel.app" }],
+      "destination": "https://www.ramachine.com.br/",
+      "permanent": true
+    },
+    {
+      "source": "/:path+",
+      "has": [{ "type": "host", "value": "ramachine.vercel.app" }],
+      "destination": "https://www.ramachine.com.br/:path+",
+      "permanent": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# Arquivos brutos e de revisão (fotos originais, vídeos, quadros de teste)
+revisao/
+
+# Cópias de trabalho que não fazem parte do site oficial
+amostra/
+versao-anterior/
+
+# Skill usada para construir o site (material de terceiros)
+site-de-10k/
+sitede10k-skill.zip
+
+# Configuração local do Claude Code e da Vercel
+.claude/
+.vercel/
+.env*
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
