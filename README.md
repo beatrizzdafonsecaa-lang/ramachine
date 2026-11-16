@@ -1,6 +1,8 @@
 # Ramachine
 
-Site da Ramachine, locação de máquina de ursinhos para aniversários, casamentos e confraternizações em São Paulo, Sorocaba e região.
+Landing page criada para a Ramachine, empresa que realiza locação de máquina de ursinhos para aniversários, casamentos e confraternizações em São Paulo, Sorocaba e região.
+
+Essa landing page foi criada com o objetivo de filtrar melhor os leads e de apresentar o serviço realizado pela empresa, tirando possíveis dúvidas.
 
 No ar em https://www.ramachine.com.br
 
